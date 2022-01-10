@@ -26,3 +26,5 @@ VSCode-UseFul-Short-Cuts
 `Ctrl+S` - Save File
 
 `Ctrl+Shift+S` - Save As
+
+`Ctrl+Shif+P` - Extentions
